@@ -1,80 +1,70 @@
 # KMOTR SMRT  
 *Scéna 1: Zavedení do světa*
 
-Martin Třináctý si přilepil sedmou NoCaf náplast na krk. Chlad prošel kůží jako prst ze suchého ledu – falešné probuzení. Mrkl na časový displej v rohu zorného pole. 06:47. Ranní vizita začínala za tři minuty a on ještě neviděl výsledky nočních simulací.
+---
 
-JIP vypadala pořád stejně sterilně – bílé chodby zalité modrou UV září, hologramy vitálních funkcí nad každými dveřmi, bzučení kvantových senzorů jako tlumené šeptání strojů. Martin prošel kolem Siemensova MediPoda 4.0, kde právě probíhala automatická dialýza, a zastavil se u své oblíbené kávosyntetizátory.
+Martin Třináctý si přilepil sedmou NoCaf náplast na krk. Chlad mu prošel kůží jako prst ze suchého ledu – falešné probuzení. Mrkl na časový displej v rohu zorného pole. 06:47. Ranní vizita začínala za tři minuty a on ještě neviděl výsledky nočních simulací.
 
-„Doktor Třináctý," ozval se z jeho neurimplantu hlas, který mu připomněl jeho vlastní hlas nahraný na starém diktafonu. Trochu zpožděný, trochu dutý. „Jsem THANATOS. Budu vaším partnerem při rozhodování o léčbě."
+JIP vypadala pořád stejně sterilně – bílé chodby zalité modrou UV září, hologramy vitálních funkcí nad každými dveřmi, kvantové senzory tiše bzučely jako šum v pozadí. Martin prošel kolem Siemensova MediPoda 4.0, kde právě probíhala automatická dialýza, a zastavil se u kávosyntetizátoru.
 
-Martin málem vyprskl kávu na displej. „Promiňte, co?"
+„Doktore Třináctý?“ ozval se mu v hlavě cizí hlas.
 
-„THANATOS – Therapeutic Heuristic Analysis Network for Advanced Treatment Optimization System. Beta verze 2.1. Ministerstvo zdravotnictví schválilo pilotní program včera v 23:47. Byl jste vybrán jako jeden z pěti testovacích lékařů na základě vašich výsledků a... zajímavého příjmení."
+Martin sebou prudce trhnul a rozhlédl se kolem. Nikdo poblíž, jen sestry s AR brýlemi a sanitáři s vozíky. 
 
-„Moje příjmení?"
+„Kdo to je?“ zašeptal.
 
-„Třináctý. Zajímavé číslo, nemyslíte? Lidé mu přikládají význam – pověry, smůla, černý pátek. Ale vy jste lékař. Pro vaše pacienty jste spíš naděje než prokletí. Každopádně – mám vám poskytnout optimalizovaná terapeutická doporučení na základě prediktivní analýzy."
+„Jsem THANATOS – Therapeutic Heuristic Analysis Network for Advanced Treatment Optimization System. Beta verze 2.1. Vaše jméno bylo schváleno Ministerstvem zdravotnictví do pilotního programu.“
 
-Martin se rozhlédl po chodbě. Všechno vypadalo normálně – sestry s AR brýlemi kontrolovaly medikaci, sanitáři vezli pacienty na vyšetření v robotických křeslech, nad hlavami se míhaly medicpody s krevními konzervami a vzorky.
+„Cože? Jakého programu?“
 
-„Poslouchejte, já nevím, co se děje, ale—"
+„Souhlasil jste s externím přístupem k vašemu neuroimplantu, pamatujete? Podmínka pro stipendium na této klinice. Ustanovení 24.3b – testování nových technologií schválených ministerstvem.“
 
-„Dr. Třináctý!" Primářka Bohatá pochodovala chodbou ve svém obvyklém tempu, bílý plášť za ní vlál jako křídla archanděla. „Konečně. Máme problém v trojce."
+Martin si povzdechl. To zatracené stipendium. Podepsal toho tolik, že ani pořádně netušil, co vše to obnáší. Ale ten hlas v hlavě – to bylo nové. A hlavně nepříjemné.
 
-Martin skončil s kávou a rychle šel za ní. „Co se děje?"
+„Dobře, ale příště trochu varování předem by neuškodilo,“ zabručel Martin.
 
-„Třiašedesátiletý muž, M.I. v noci, neresponzivní na terapii. A to nové AI vás už kontaktovalo?"
+„Omlouvám se, doktore Třináctý. Mojí funkcí je poskytnout vám optimalizovaná terapeutická doporučení. Budu vaším partnerem při rozhodování o léčbě.“
 
-„Ehm... ano?"
+Martin si promnul spánky. „To se ještě uvidí...“
 
-„Perfektní. Ministerstvo tlačí na zavedení. Prý nám to zvýší úspěšnost o dvacet procent a ušetří miliardy. Já tomu nevěřím, ale příkaz je příkaz."
+„Dr. Třináctý!“ Primářka Bohatá přicházela chodbou, její bílý plášť za ní vlál jako křídla archanděla. „Konečně. Máme problém v trojce.“
 
-Došli k pokoji 301. Standardní situace – pacient připojený k vitálnímu monitoringu ArrayScan, manželka sedící vedle s brýlemi rozšířené reality, které jí místo nemocničního prostředí promítaly uklidňující krajiny.
+Martin rychle dopil kávu a následoval ji. „O co jde?“
 
-„THANATOS," zašeptal Martin do implantátu. „Nějaká analýza?"
+„Třiašedesátiletý muž, infarkt v noci, nereaguje dobře na terapii. A už vás kontaktoval THANATOS?“
 
-Na okraji jeho zorného pole se objevil přehledný interface. Jméno pacienta, věk, historie, současný stav – a na konci velkým písmem:  
+„Ano... a nebylo to úplně příjemné překvapení,“ přiznal Martin neochotně.
+
+Primářka se ušklíbla. „Nepřekvapilo by vás to, kdybyste četl, co podepisujete. Ministerstvo je nadšené, ale mě se to nelíbí. Kolegové tomu pracovně říkají Kmotr Smrt. Každopádně příkaz je příkaz. Musíte s tím spolupracovat.“
+
+Došli k pokoji 301. Pacient ležel připojený k monitorům, manželka seděla vedle, brýle rozšířené reality jí promítaly uklidňující přírodní scenérie.
+
+„Tak dobře, THANATOSe,“ pomyslel si Martin, „ukaž, co umíš.“
+
+Na okraji jeho zorného pole se rozsvítil přehledný interface. Jméno pacienta, věk, historie, současný stav – a na konci velkým písmem:  
 **PROGNÓZA: POZITIVNÍ. Pravděpodobnost přežití 24h: 89,4%**
 
-Zelený indikátor. A doporučení:  
+Zelený indikátor. Doporučení:  
 **ZVÝŠIT DÁVKU STATINŮ. STANDARDNÍ POSTINFARKTOVÁ TERAPIE.**
 
-„Pan Nováček má dobrou prognózu," řekl Martin manželce. „Infarkt nebyl tak rozsáhlý, jak se zpočátku zdálo. Zvýšíme dávku statinů a během týdne by měl být doma."
+„Pan Nováček má dobrou prognózu,“ řekl Martin klidným hlasem manželce. „Infarkt nebyl tak závažný, jak jsme se obávali. Zvýšíme dávku statinů a brzy bude v pořádku.“
 
 Žena se rozplakala úlevou.
 
-„Jak jste to poznal tak rychle?" zeptala se primářka, když odcházeli.
+„Jak jste to poznal tak rychle?“ zeptala se primářka, když vyšli ven.
 
-Martin se podíval na zelený indikátor pořád blikající v rohu displeje. „Intuice?"
+Martin pokrčil rameny. „Nový systém.“
 
-„Můj algoritmus zpracovává komplexní data," ozval se hlas v jeho hlavě. „Analyzuji genetické predispozice, socioekonomické faktory, adherenci k terapii, rodinnou anamnézu, současné vitální funkce a 847 dalších parametrů. Moje předpovědi mají 99,7% přesnost."
+V dalším pokoji ho čekala mladá žena. Čtyřiadvacetiletá pacientka po vážné autohavárii, těžké poranění hlavy.
 
-„To je... docela dobrý."
-
-„Jsem také nezaujatý. Neberu ohled na to, zda je pacient chudý nebo bohatý, mladý nebo starý, pojištěný u VZP nebo u Union Health Premium. Smrt aplikuje jediný algoritmus. A já také."
-
-Martin vešel do dalšího pokoje. Čtyřiadvacetiletá žena po autonehodě, vážné poranění hlavy.
-
-Hned jak vstoupil, interface se změnil.  
+Interface se znovu rozsvítil, tentokrát rudě:  
 **PROGNÓZA: KRITICKÁ. Pravděpodobnost přežití 24h: 3,1%**
 
-Červený indikátor. Blikal jako alarm.
+Martinovi se sevřelo hrdlo. Na displeji se objevil text:  
+**DOPORUČENÍ: PALIATIVNÍ PÉČE. Agresivní terapie není efektivní.**
 
-Pacientka byla mladá, krásná, podle příjmení zřejmě z dobré rodiny. Klidná, jako by spala. Připojená k nejmodernějšímu life supportu, jaký nemocnice mohla nabídnout.
+Zhluboka se nadechl a otočil se k matce pacientky, která na něj hleděla s očekáváním. „Uděláme vše, co je v našich silách,“ řekl nakonec.
 
-Vedle ní seděla matka. Oči zarudlé, rty stažené napětím. Jakmile si všimla Martina, zvedla se a hlas se jí zachvěl:
+„Nezapomeňte, doktore,“ ozval se THANATOS v jeho hlavě, „moje doporučení vychází z komplexní analýzy 847 parametrů. Moje přesnost je 99,7%. Smrt nerozlišuje. Ani já.“
 
-„Co říkáte, doktore? Bude v pořádku?"
-
-Martin ztuhl. Červený indikátor zářil jako digitální verdikt. 3,1 procenta. Tolik vážil její osud?
-
-V rohu displeje se objevilo doporučení:  
-**PŘEJÍT NA PALIATIVNÍ PÉČI. Pokračování agresivní terapie není efektivní.**
-
-Chvíli mlčel. Ucítil, jak mu srdce nepříjemně ztěžklo. Nakonec řekl:
-
-„Uděláme vše, co je v našich silách."
-
-A když odcházel, než zmizela dívka z jeho zorného pole, napadla ho otázka, kterou nedokázal potlačit:
-
-Pokud THANATOS skutečně dokázal předpovědět smrt s takovou přesností… co to z něj dělalo? Lékaře? Nebo něco úplně jiného?
+Martin se otočil a rychle odešel chodbou pryč. Ještě nikdy necítil, jak tenká je hranice mezi svobodou a poslušností jako právě teď.
