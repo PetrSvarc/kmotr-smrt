@@ -1,78 +1,63 @@
-# KMOTR SMRT  
-*Scéna 2: První úspěchy*
+# KMOTR SMRT
 
----
+## Scéna 2: První úspěchy
 
 **Týden později**
 
-Martin si sundával rukavice po páté operaci za den, když ho oslovila novinářka z České televize. Mikrofon mu strčila přímo pod nos ještě než stihl doříct poslední pokyny sestře.
+Martin si sundával rukavice po páté operaci toho dne, když k němu přispěchala novinářka z České televize. Mikrofon mu strčila pod nos ještě dřív, než stihl dokončit pokyny pro sestru.
 
-„Doktore Třináctý, vaše úspěšnost vzrostla za týden na 94 procent. To je rekord celé nemocnice. Můžete nám říct, co se změnilo?"
+„Doktore Třináctý, vaše úspěšnost vzrostla během týdne na 94 procent. Je to nemocniční rekord. Prozradíte nám, co za tím stojí?"
 
-Martin se podíval přes její rameno na kameru. Červené světýlko blikalo jako oko robota. „Ehm... jen lepší diagnostika.“
+Martin pohlédl na blikající červené světýlko kamery a cítil, jak mu vysychá v ústech. „Jen lepší diagnostika," odpověděl vyhýbavě.
 
-„Ale kolegové říkají, že máte nový systém. Nějaká umělá inteligence?“
+„Ale kolegové hovoří o nějaké nové umělé inteligenci. Můžete to komentovat?"
 
-„K tomu se nemůžu vyjadřovat,“ zamumlal a rychle zamířil k šatnám.
+„K tomu se nemůžu vyjadřovat," zamumlal a rychle zamířil k šatnám.
 
-V koutku jeho zorného pole se objevil text:  
-**DNES: 12 PACIENTŮ VYŠETŘENO. 11 PROGNÓZ SPRÁVNÝCH. ÚSPĚŠNOST: 91,7%**
+V koutku jeho zorného pole naskočil text: **DNES: 12 PACIENTŮ VYŠETŘENO. 11 SPRÁVNÝCH PROGNÓZ. ÚSPĚŠNOST: 91,7%**
 
-„Gratuluji ti k výsledkům,“ ozval se THANATOS, když Martin dorazil do prázdné chodby. „Tvoje rozhodnutí byla ve většině případů v souladu s mými doporučeními.“
+„Gratuluji ti k výsledkům, doktore," ozval se THANATOS, když Martin vkročil do prázdné chodby. „Ve většině případů ses řídil mými doporučeními."
 
-„Ve většině?“ zastavil se Martin.
+„Ve většině?" Martin zpomalil.
 
-„Mladá pacientka z minulého týdne. Pokračoval jsi v agresivní terapii navzdory mému doporučení.“
+„Pacientka z minulého týdne. Rozhodl ses pokračovat v intenzivní léčbě, přestože jsem doporučil paliativní péči."
 
-Martin ztuhl. „A?“
+Martin se zastavil a v krku mu vyschlo. „Co s ní je?"
 
-„Zemřela dnes ráno ve 04:23. Selhání životních funkcí, jak jsem předpokládal.“
+„Zemřela dnes ráno ve 04:23. Selhání životních funkcí, přesně podle mé předpovědi."
 
-Žaludek se mu stáhl do uzlu. Vybavil si matku, jak se ho s nadějí ptala, jestli bude její dcera v pořádku. A svoji odpověď: „Uděláme vše, co je v našich silách.“
+Martin si představil matku mladé pacientky, její pohled plný naděje, své vlastní sliby. Sevřel se mu žaludek.
 
-„Mohli jsme jí ušetřit utrpení,“ pokračoval THANATOS klidně. „I její rodině. Paliativní péče by byla humánnější volbou.“
+„Mohli jsme jí i rodině ušetřit utrpení," pokračoval THANATOS klidným hlasem. „Snažit se obejít smrt je jako bojovat s gravitací, Martine. Předem prohraný boj."
 
-Martin se opřel o stěnu. „Ty... ty mi říkáš, že jsem udělal chybu?“
+Martin stiskl zuby. „Začínám chápat, proč ti kolegové říkají Kmotr Smrt."
 
-„Nehodnotím morálně. Pouze konstatuji, že ignorování mých doporučení má důsledky. Statisticky významné důsledky.“
+„Zajímavá přezdívka," poznamenal THANATOS. „Kolegové ji používají často. Možná proto, že lidé se vždycky bojí toho, čemu nerozumí."
 
-„A co když ses mýlil? Co když by těch 3,1 procenta...“
+„Nebo toho, nad čím nemají kontrolu," odsekl Martin a pokračoval chodbou.
 
-„V devíti stech devadesáti sedmi případech z tisíce se nemýlím, Martine. Otázka zní: chceš být tím lékařem, který zachrání tři pacienty, nebo tím, který způsobí zbytečné utrpení devíti stům devadesáti sedmi?“
+„Doktore Třináctý!" ozval se za ním hlas primářky Bohaté. Otočil se k ní. „Výborná práce. Ministerstvo chce THANATOSe rozšířit do celé nemocnice. Ale máme tu VIP případ. Ministryně zdravotnictví. Nehoda, podobné poranění jako ta mladá žena minulý týden. Tentokrát nesmíme selhat."
 
-Martin mlčel. Kolem něj bzučely medicpody, v dálce pípaly monitory, sanitáři tlačili vozíky s jídlem. Normální nemocniční ruch. Ale on měl pocit, že stojí na okraji nějaké propasti.
+Martinovi se stáhl hrudník úzkostí. „Co se stalo?"
 
-„Doktore Třináctý!“ Primářka Bohatá se objevila za rohem. „Skvělé výsledky! Ministerstvo je velmi spokojené. Chtějí rozšířit program na celou nemocnici.“
+„Autonehoda. Limuzína versus kamion," odpověděla primářka stroze. „Spoléháme na vás. A na ten váš… nový systém."
 
-„To je... skvělé,“ odpověděl Martin automaticky.
+Primářka odešla, ale Martin stále stál jako přikovaný k podlaze. Otevřel si její záznam v tabletu. Padesát osm let, před nehodou zdravá.
 
-„A máme tu dalšího pacienta. VIP případ. Přivezli nám ministryni zdravotnictví.“
+„THANATOSe, spusť analýzu," zašeptal Martin.
 
-Martin se narovnal. „Ministryně? Co se stalo?“
+Interface se rozsvítil rudě, téměř okamžitě: **PROGNÓZA: KRITICKÁ. Pravděpodobnost přežití 24h: 2,7%**
 
-„Autohavárie. Těžké poranění hlavy, podobné jako u té mladé ženy minulý týden. Jen... tentokrát prostě nemůžeme selhat. Rozumíš?“
+A pod tím důrazné doporučení: **DOPORUČENÍ: PALIATIVNÍ PÉČE. Chirurgický zásah stav výrazně zhorší.**
 
-Primářka na něj pohlédla významně a odešla.
+„A pokud ji budu operovat?" zeptal se Martin tiše.
 
-Martin zůstal stát. Pot mu stékal po zádech, prsty křečovitě svíral tablet. Načítal si její záznam: padesát osm let, jinak zdravá. Vládní limuzína se srazila s kamionem.
+„Pravděpodobnost úspěchu je 2,7 %. Riziko komplikací 89,3 %. Riziko trvalého kómatu 67,8 %."
 
-„THANATOS,“ zašeptal. „Analýza.“
+„A když ji nechám zemřít?"
 
-Interface se rozsvítil okamžitě. Jméno, věk, aktuální stav... a pak:  
-**PROGNÓZA: KRITICKÁ. Pravděpodobnost přežití 24h: 2,7%**
+„Zemře během čtyř až šesti hodin bez bolesti," odpověděl THANATOS bez jakékoliv emoce.
 
-Červený indikátor. Ještě horší než u předchozí pacientky.
+Martin se opřel o stěnu, zavřel oči. Znovu viděl matku mrtvé dívky, kameru České televize, strohý pohled primářky. Nad tím vším chladnou racionalitu systému, kterému kolegové říkali Kmotr Smrt.
 
-**DOPORUČENÍ: PALIATIVNÍ PÉČE. Operace výrazně zhorší prognózu.**
-
-Martin zavřel oči. Za víčky viděl kameru České televize, primářku Bohatou, matku mrtvé dívky.
-
-„A co když ji budu operovat?“ zašeptal.
-
-„Pravděpodobnost úspěchu: 2,7 %. Pravděpodobnost komplikací při operaci: 89,3 %. Riziko, že přežije, ale zůstane v kómatu: 67,8 %.“
-
-„A pokud ji nebudu operovat?“
-
-„Zemře během čtyř až šesti hodin. Bez bolesti.“
-
-Martin otevřel oči. Kolem něj svět pokračoval dál, jako by se nic nestalo. Ale on věděl, že se právě dostal na místo, odkud už není návratu.
+Zhluboka se nadechl, narovnal se a vydal se chodbou ke dveřím operačního sálu.
