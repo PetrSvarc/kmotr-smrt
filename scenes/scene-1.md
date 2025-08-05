@@ -65,6 +65,6 @@ Martinovi se sevřelo hrdlo. Na displeji se objevil text:
 
 Zhluboka se nadechl a otočil se k matce pacientky, která na něj hleděla s očekáváním. „Uděláme vše, co je v našich silách,“ řekl nakonec.
 
-„Nezapomeňte, doktore,“ ozval se THANATOS v jeho hlavě, „moje doporučení vychází z komplexní analýzy 847 parametrů. Moje přesnost je 99,7%. Smrt nerozlišuje. Ani já.“
+„Nezapomeňte, doktore,“ ozval se THANATOS v jeho hlavě, „moje doporučení vychází z komplexní analýzy 847 parametrů. Moje přesnost je 99,7 %. Moje rozhodnutí nejsou ovlivněna emocemi ani osobními preferencemi. Jednám čistě na základě dat – nestranně a objektivně.“
 
 Martin se otočil a rychle odešel chodbou pryč. Ještě nikdy necítil, jak tenká je hranice mezi svobodou a poslušností jako právě teď.
